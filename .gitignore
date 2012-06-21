@@ -22,3 +22,7 @@ session*
 tramp
 \#*
 tmp/*
+eshell/
+elpa/
+.smex-items
+swank/
