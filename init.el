@@ -16,8 +16,17 @@
 ;; Auto-install base packages!
 (defvar base-packages
   '(
+    ac-slime
+    ace-jump-mode
+    align-cljlet
+    clojure-mode
+    clojure-test-mode
+    clojurescript-mode
     mwe-log-commands
+    paredit
     rainbow-delimiters
+    slime
+    slime-repl
     smex
     undo-tree
     volatile-highlights
