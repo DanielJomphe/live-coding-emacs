@@ -1,3 +1,5 @@
+**THIS IS NOW DEPRECATED** in favor of my usage of Emacs Live in its place.
+
 <img src="https://github.com/downloads/overtone/live-coding-emacs/improcess-logo-2.png" alt="Fuzzy Improcess Logo" title="Improcess" align="right" />
 
 ## Live Coding Emacs setup for Overtone
